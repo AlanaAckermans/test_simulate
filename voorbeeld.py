@@ -1,7 +1,7 @@
 #!usr/bin/env python
 
 #INFO
-__author__ = "Alana Ackermans, Fre Van Buynder"
+__author__ = "Alana Ackermans, Fre Van Buynder, Jens Vansteenvoort"
 __version__ = "0.0.1"
 
 #LIBRARIES
